@@ -1,4 +1,4 @@
-import React from "react";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Header from "./components/Header";
@@ -17,10 +17,10 @@ function App() {
         <section id="about">
           <About />
         </section>
-        <section id="skill">
+        <section id="skills">
           <Skills />
         </section>
-        <section id="project">
+        <section id="projects">
           <Projects />
         </section>
         <section id="resume">
